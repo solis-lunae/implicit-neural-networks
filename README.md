@@ -4,7 +4,7 @@ My implementations of implicit neural networks while learning the concepts.
 
 ## Background
 
-These notebooks follow the paper, and cnapters 1 and 4 from the NeurIPS 2020 tutorial:
+These notebooks follow the paper, and chapters 1 and 4 from the NeurIPS 2020 tutorial:
 - **Tutorial:** https://implicit-layers-tutorial.org/
 - **Paper:** Bai et al. "Deep Equilibrium Models" (NeurIPS 2019)
 
