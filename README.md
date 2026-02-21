@@ -1,4 +1,4 @@
-# Implicit Neural Networks - Learning Implementations
+# Implicit Neural Networks
 
 My implementations of implicit neural networks while learning the concepts.
 
